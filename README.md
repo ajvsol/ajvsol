@@ -6,7 +6,7 @@ I'm a junior full-stack developer.
 
 <!-- Profile made with: https://www.profileme.dev/ -->
 
-Since I started contributing a few years ago to an open-source videogame I've gained a passion for coding. I feel like it's a culmination of my journey through tech - since I've worked on all sides by having a background in Linux systems administration, digital marketing and website management. I'm excited to bring my unique perspective and hard-working nature to any project I work on.
+Since I started contributing a few years ago to an [open-source videogame](https://github.com/BeeStation/BeeStation-Hornet/pulls?q=is%3Apr+author%3Avictor239+is%3Aclosed) I've gained a passion for coding. I feel like it's a culmination of my journey through tech - since I've worked on all sides by having a background in Linux systems administration, digital marketing and website management. I'm excited to bring my unique perspective and hard-working nature to any project I work on.
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
