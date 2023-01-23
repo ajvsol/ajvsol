@@ -15,10 +15,15 @@ Since I started contributing a few years ago to an [open-source videogame](https
 
 Food Bank Network, a responsive web app for locating local food banks and sharing reviews with others (<a href="https://github.com/SchoolOfCode/bc13_final-project_front-end-dial-up-kids">GitHub repo</a>).
 
+### Socials
+
+<div>
+  <a href="https://www.linkedin.com/in/aaron-sollesse" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.github.com/ajvsol" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+</div>
 
 ### Skills
 <a href="https://www.codewars.com/users/aaronjvsol"><img src="https://www.codewars.com/users/aaronjvsol/badges/large?theme=dark" alt="Codewars Badge"/></a>
-
 
 #### Languages and Frameworks
 <div>
@@ -31,7 +36,7 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </div>
 
-#### Libraries
+#### Libraries and Microservices
 <div>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
@@ -40,46 +45,58 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/-Auth0-000000.svg?logo=auth0&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Lets%20encrypt-003A70.svg?logo=letsencrypt&style=for-the-badge">
+</div>
+
+#### Web Technologies and Platforms
+<div>
+  <img src="https://img.shields.io/badge/-Docker-004d80.svg?logo=docker&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Digitalocean-000000.svg?logo=digitalocean&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Netlify-FFFFFF.svg?logo=netlify&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Wordpress-21759B.svg?logo=wordpress&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Magento-d1d1e0.svg?logo=magento&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=for-the-badge">
 </div>
 
 #### Tools
 <div>
+  <img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Canva-000000.svg?logo=canva&style=for-the-badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Ubuntu-000000.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Postman-FFFFFF.svg?logo=postman&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Prettier-000000.svg?logo=prettier&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Webpack-FFFFFF.svg?logo=webpack&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Matrix-000000.svg?logo=matrix&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Signal-FFFFFF.svg?logo=signal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Codewars-AD2C27.svg?logo=codewars&style=for-the-badge">
 </div>
 
+#### I'm learning...
+<div align="left">
+  <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Mongodb-003300.svg?logo=mongodb&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Web%20components-ffffff.svg?logo=webcomponents.org&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Firebase-000000.svg?logo=firebase&style=for-the-badge">
+</div>
 
+#### In the further future...
+<div align="left">
+  <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Python-FFFFFF.svg?logo=python&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Clojure-000000.svg?logo=clojure&style=for-the-badge">
+</div>
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="36" height="36" alt="git" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="36" height="36" alt="git" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-### I'm learning...
-<p align="left">
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a></p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ajvsol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aaron-sollesse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
