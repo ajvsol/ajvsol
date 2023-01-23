@@ -35,7 +35,8 @@ Since I started contributing a few years ago to an open-source videogame I've ga
 
 <a href="http://www.github.com/ajvsol"><img src="https://github-readme-stats.vercel.app/api?username=ajvsol&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajvsol's GitHub stats" /></a>
 
-My alternate account:
+My secondary account:
+
 <a href="http://www.github.com/victor239"><img src="https://github-readme-stats.vercel.app/api?username=victor239&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="victor239's GitHub stats" /></a>
 
 <!--
