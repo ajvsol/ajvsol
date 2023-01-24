@@ -67,6 +67,8 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
 <div>
   <img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge">
   <img src="https://img.shields.io/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-Redhat-EE0000.svg?logo=redhat&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Fedora-294172.svg?logo=fedora&style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Canva-000000.svg?logo=canva&style=for-the-badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
