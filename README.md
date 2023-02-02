@@ -52,7 +52,7 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
 #### Web Technologies and Platforms
 <div>
   <img src="https://img.shields.io/badge/-Docker-004d80.svg?logo=docker&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-web-services&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Digitalocean-000000.svg?logo=digitalocean&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Netlify-FFFFFF.svg?logo=netlify&style=for-the-badge">
@@ -67,6 +67,7 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
 <div>
   <img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge">
   <img src="https://img.shields.io/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-NixOS-000000.svg?logo=nixos&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Fedora-294172.svg?logo=fedora&style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
