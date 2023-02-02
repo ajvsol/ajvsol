@@ -44,6 +44,7 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/-Testing%20Library-ffffff.svg?logo=testinglibrary&style=for-the-badge">
   <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress">
   <img src="https://img.shields.io/badge/-Auth0-000000.svg?logo=auth0&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Lets%20encrypt-003A70.svg?logo=letsencrypt&style=for-the-badge">
@@ -87,7 +88,9 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
 #### I'm learning...
 <div align="left">
   <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-tRPC-17202C.svg?logo=trpc&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Mongodb-003300.svg?logo=mongodb&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Prisma-000000.svg?logo=prisma&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Web%20components-ffffff.svg?logo=webcomponents.org&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Firebase-000000.svg?logo=firebase&style=for-the-badge">
 </div>
