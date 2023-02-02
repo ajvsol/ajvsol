@@ -53,15 +53,26 @@ Food Bank Network, a responsive web app for locating local food banks and sharin
 #### Web Technologies and Platforms
 <div>
   <img src="https://img.shields.io/badge/-Docker-004d80.svg?logo=docker&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-web-services&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E.svg?logo=amazonaws&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Digitalocean-000000.svg?logo=digitalocean&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Netlify-FFFFFF.svg?logo=netlify&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Wordpress-21759B.svg?logo=wordpress&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Magento-d1d1e0.svg?logo=magento&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=for-the-badge">
+</div>
+
+#### Amazon Web Services
+<div>
+  <img src="https://img.shields.io/badge/-S3-232F3E.svg?logo=amazons3&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-EC2-C21325.svg?logo=amazonec2&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-RDS-000000.svg?logo=amazonrds&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-CloudWatch-d1d1e0.svg?logo=amazoncloudwatch&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-VPC-269539.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Route%2053-3178C6.svg?style=for-the-badge">
 </div>
 
 #### Tools
