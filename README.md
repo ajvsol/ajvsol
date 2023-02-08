@@ -39,7 +39,6 @@ Built with:
   <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge">
 </div>
 
-
 #### [SnapVote](https://github.com/ajvsol/SnapVote)
 A responsive web app for helping groups make decisions and reach consensus easily. 
 
@@ -93,12 +92,8 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge">
   <img src="https://img.shields.io/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-NixOS-000000.svg?logo=nixos&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Fedora-294172.svg?logo=fedora&style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  
   <img src="https://img.shields.io/badge/-Postman-FFFFFF.svg?logo=postman&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Prettier-000000.svg?logo=prettier&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=for-the-badge">
