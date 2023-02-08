@@ -29,14 +29,14 @@ Built with:
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/-Canva-000000.svg?logo=canva&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind"></a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=vercel&style=for-the-badge"></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase"></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Canva-000000.svg?logo=canva&style=for-the-badge"></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge"></a>
 </div>
 
 #### [SnapVote](https://github.com/ajvsol/SnapVote)
@@ -44,12 +44,12 @@ A responsive web app for helping groups make decisions and reach consensus easil
 
 Built with:
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/-Testing%20Library-ffffff.svg?logo=testinglibrary&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"></a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Testing%20Library-ffffff.svg?logo=testinglibrary&style=for-the-badge"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"></a>
 </div>
 
 ### Other Skills
