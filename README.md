@@ -20,7 +20,7 @@ Since I started contributing a few years ago to an [open-source videogame](https
 
 ### Portfolio
 
-#### [Food Bank Network](https://github.com/SchoolOfCode/bc13_final-project_front-end-dial-up-kids)
+#### [Food Bank Network](https://github.com/ajvsol/FoodBankNetwork)
 A responsive web app for locating local food banks and sharing reviews with others.
 
 Built with:
