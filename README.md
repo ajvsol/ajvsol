@@ -68,12 +68,12 @@ Built with:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"></a>
 </div>
 
-### Other Skills
+## Other Skills
 Project repos for these skills are mainly linked from my [100 Days of Code](https://github.com/ajvsol/100-days-of-code) journal. Logos are not repeated here if already linked in Portfolio section. 
 
 <a href="https://www.codewars.com/users/aaronjvsol"><img src="https://www.codewars.com/users/aaronjvsol/badges/large?theme=dark" alt="Codewars Badge"/></a>
 
-#### Frameworks, Libraries and Languages
+### Frameworks, Libraries and Languages
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
@@ -81,7 +81,7 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Lets%20encrypt-003A70.svg?logo=letsencrypt&style=for-the-badge">
 </div>
 
-#### Web Technologies and Platforms
+### Web Technologies and Platforms
 <div>
   <img src="https://img.shields.io/badge/-Docker-004d80.svg?logo=docker&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E.svg?logo=amazonaws&style=for-the-badge">
@@ -93,7 +93,7 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=for-the-badge">
 </div>
 
-#### Amazon Web Services
+### Amazon Web Services
 <div>
   <img src="https://img.shields.io/badge/-S3-232F3E.svg?logo=amazons3&style=for-the-badge">
   <img src="https://img.shields.io/badge/-EC2-C21325.svg?logo=amazonec2&style=for-the-badge">
@@ -103,7 +103,7 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Route%2053-3178C6.svg?style=for-the-badge">
 </div>
 
-#### Tools
+### Tools
 <div>
   <img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge">
   <img src="https://img.shields.io/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu&logoColor=E95420" alt="Ubuntu">
@@ -115,11 +115,11 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=for-the-badge">
 </div>
 
-### What I'm learning
-#### My current learning notes...
+## What I'm learning
+### My current learning notes...
 <a href="https://github.com/ajvsol/public-notes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 
-#### In the short-term...
+### In the short-term...
 <div align="left">
   <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=for-the-badge">
   <img src="https://img.shields.io/badge/-tRPC-17202C.svg?logo=trpc&style=for-the-badge">
@@ -129,7 +129,7 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
   <img src="https://img.shields.io/badge/-Firebase-000000.svg?logo=firebase&style=for-the-badge">
 </div>
 
-#### In the further future...
+### In the further future...
 <div align="left">
   <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge">
@@ -138,7 +138,7 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
 </div>
 
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
