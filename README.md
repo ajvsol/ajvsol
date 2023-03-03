@@ -10,17 +10,18 @@ Since I started contributing a few years ago to an [open-source videogame](https
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
+* 🧠  My learning notes are open-source! View them here: [public-notes repo](https://github.com/ajvsol/public-notes)
 
-### Socials
+## Socials
 
 <div>
   <a href="https://www.linkedin.com/in/aaron-sollesse" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://www.github.com/ajvsol" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </div>
 
-### Portfolio
+## Portfolio
 
-#### [Food Bank Network](https://github.com/ajvsol/FoodBankNetwork)
+### [Food Bank Network](https://github.com/ajvsol/FoodBankNetwork)
 A responsive web app for locating local food banks and sharing reviews with others.
 
 Built with:
@@ -39,7 +40,7 @@ Built with:
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=for-the-badge"></a>
 </div>
 
-#### [News](https://github.com/ajvsol/News)
+### [News](https://github.com/ajvsol/News)
 A website for reading news filtered by topic.
 
 Built with:
@@ -54,7 +55,7 @@ Built with:
 	<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=for-the-badge&logo=github&logoColor=black"></a>
 </div>
 
-#### [SnapVote](https://github.com/ajvsol/SnapVote)
+### [SnapVote](https://github.com/ajvsol/SnapVote)
 A responsive web app for helping groups make decisions and reach consensus easily. 
 
 Built with:
@@ -115,6 +116,8 @@ Project repos for these skills are mainly linked from my [100 Days of Code](http
 </div>
 
 ### What I'm learning
+#### My current learning notes...
+<a href="https://github.com/ajvsol/public-notes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 
 #### In the short-term...
 <div align="left">
