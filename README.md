@@ -8,9 +8,9 @@ I'm a junior full-stack developer at <a href="https://www.linkedin.com/school/sc
 
 Since I started contributing a few years ago to an [open-source videogame](https://github.com/BeeStation/BeeStation-Hornet/pulls?q=is%3Apr+author%3Avictor239+is%3Aclosed) I've gained a passion for coding. I feel like it's a culmination of my journey through tech - I've worked on all sides by having a background in digital marketing, Linux systems administration and website management. I'm excited to bring my unique perspective and hard-working nature to any project I work on.
 
-* 🌍  I'm based in London, UK
-* ✉️  You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
-* 🧠  My learning notes are open-source! View them here: [public-notes repo](https://github.com/ajvsol/public-notes)
+* 🌍 I'm based in London, UK
+* ✉️ You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
+* 🧠 My learning notes are open-source! View them here: [public-notes repo](https://github.com/ajvsol/public-notes)
 
 ## Socials
 
