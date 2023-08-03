@@ -20,6 +20,8 @@ Since I started contributing a few years ago to an [open-source videogame](https
 </div>
 
 ## Certifications
+<img src="[drawing.jpg](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" alt="drawing" width="200"/>
+![](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30680c11-f92d-4303-beed-b48a4c238a79" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f9c567ac-cffb-4a09-835e-a100868c47b8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
