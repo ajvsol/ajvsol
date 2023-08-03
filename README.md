@@ -20,11 +20,12 @@ Since I started contributing a few years ago to an [open-source videogame](https
 </div>
 
 ## Certifications
-<img src="[drawing.jpg](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" alt="drawing" width="200"/>
-![](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30680c11-f92d-4303-beed-b48a4c238a79" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f9c567ac-cffb-4a09-835e-a100868c47b8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<div>
+  <a href="https://www.credly.com/badges/30680c11-f92d-4303-beed-b48a4c238a79/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"></a>
+  <a href="https://www.credly.com/badges/f9c567ac-cffb-4a09-835e-a100868c47b8/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="AWS Partner: Accreditation (Technical)" width="150"></a>
+  <a href="https://www.credly.com/badges/188ddfba-38f3-487c-aed0-87cb3a8d2c48/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" alt="AWS Partner: Sales Accreditation (Business)" width="150"></a>
+  <a href="https://www.credly.com/badges/69d8f966-04c1-422b-b030-ffe7cf7007dd/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" alt="AWS Partner: Cloud Economics Accreditation" width="150"></a>
+</div>
 
 ## Portfolio
 
