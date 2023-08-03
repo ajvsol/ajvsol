@@ -1,12 +1,10 @@
 Hi! 👋 My name is Aaron Sollesse.
 ============================
 
-I'm a junior full-stack developer at <a href="https://www.linkedin.com/school/school-of-code/">School of Code</a>.
+I'm a software engineer at <a href="https://www.baesystems.com/en/digital/home">BAE Systems Digital Intelligence</a>.
 -------------------------------
 
-<!-- Profile made with: https://www.profileme.dev/ -->
-
-Since I started contributing a few years ago to an [open-source videogame](https://github.com/BeeStation/BeeStation-Hornet/pulls?q=is%3Apr+author%3Avictor239+is%3Aclosed) I've gained a passion for coding. I feel like it's a culmination of my journey through tech - I've worked on all sides by having a background in digital marketing, Linux systems administration and website management. I'm excited to bring my unique perspective and hard-working nature to any project I work on.
+During university I started building WordPress websites and it led me to start a fulfilling digital marketing career. But some years later as I started contributing to an [open-source videogame](https://github.com/BeeStation/BeeStation-Hornet/pulls?q=is%3Apr+author%3Avictor239+is%3Aclosed) as a hobby I gained a passion for coding. I feel like it's a culmination of my journey through tech - now I've worked on all sides by having a background in digital marketing, Linux systems administration and business management. 
 
 * 🌍 I'm based in London, UK
 * ✉️ You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
