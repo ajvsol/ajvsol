@@ -19,6 +19,11 @@ Since I started contributing a few years ago to an [open-source videogame](https
   <a href="https://www.github.com/ajvsol" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </div>
 
+## Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30680c11-f92d-4303-beed-b48a4c238a79" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f9c567ac-cffb-4a09-835e-a100868c47b8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 ## Portfolio
 
 ### [Food Bank Network](https://github.com/ajvsol/FoodBankNetwork)
