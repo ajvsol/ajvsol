@@ -7,7 +7,7 @@ I'm a software engineer at <a href="https://www.baesystems.com/en/digital/home">
 During university I started building WordPress websites and it led me to start a fulfilling digital marketing career. But some years later as I started contributing to an [open-source videogame](https://github.com/BeeStation/BeeStation-Hornet/pulls?q=is%3Apr+author%3Avictor239+is%3Aclosed) as a hobby I gained a passion for coding. I feel like it's a culmination of my journey through tech - now I've worked on all sides by having a background in digital marketing, Linux systems administration and business management. 
 
 * 🌍 I'm based in London, UK
-* ✉️ You can contact me at [aaronsollesse@mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
+* ✉️ You can contact me at [aaronsollesse @ mail.spinningatoms.com](mailto:aaronsollesse@mail.spinningatoms.com)
 * 🧠 My learning notes are open-source! View them here: [public-notes repo](https://github.com/ajvsol/public-notes)
 
 ## Socials
